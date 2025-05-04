@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "api/tarot.js", "use": "@vercel/node" }
+  ],
+  "routes": [
+    { "src": "/api/tarot", "dest": "/api/tarot.js" }
+  ]
+}

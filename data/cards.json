@@ -1,0 +1,20 @@
+[
+  {
+    "id": "the-fool",
+    "name": "The Fool",
+    "description": "A new beginning, adventure, and potential.",
+    "image": "/cards/the-fool.jpg"
+  },
+  {
+    "id": "the-magician",
+    "name": "The Magician",
+    "description": "Manifestation, resourcefulness, and power.",
+    "image": "/cards/the-magician.jpg"
+  },
+  {
+    "id": "the-high-priestess",
+    "name": "The High Priestess",
+    "description": "Intuition, hidden knowledge, and the subconscious.",
+    "image": "/cards/the-high-priestess.jpg"
+  }
+]
